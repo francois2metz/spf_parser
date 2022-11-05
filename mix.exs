@@ -24,7 +24,8 @@ defmodule SpfParser.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:abnf_parsec, "~> 1.0", runtime: false}
+      {:abnf_parsec, "~> 1.0", runtime: false},
+      {:ex_doc, "~> 0.14", only: :dev, runtime: false}
     ]
   end
 
