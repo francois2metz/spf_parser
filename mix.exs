@@ -36,7 +36,7 @@ defmodule SpfParser.MixProject do
   defp package() do
     [
       licenses: ["MIT"],
-      links: %{}
+      links: %{"GitHub" => "https://github.com/francois2metz/spf_parser"}
     ]
   end
 end
