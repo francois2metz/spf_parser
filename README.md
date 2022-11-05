@@ -1,6 +1,6 @@
 # SpfParser
 
-Parse the Sender Policy Framework (SPF) as defined in the [RFC 7208][]
+Parse the Sender Policy Framework (SPF) as defined in the [RFC 7208][].
 
 ## Installation
 
