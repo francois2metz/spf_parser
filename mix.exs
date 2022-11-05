@@ -6,6 +6,8 @@ defmodule SpfParser.MixProject do
       app: :spf_parser,
       version: "0.1.0",
       elixir: "~> 1.14",
+      licences: ["MIT"],
+      source_url: "https://github.com/francois2metz/spf_parser",
       start_permanent: Mix.env() == :prod,
       deps: deps()
     ]
